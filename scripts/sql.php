@@ -1,8 +1,8 @@
 <?php
 //SQL Variables
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "db.mydark.me";
+$username = "gastroapp";
+$password = "7LEErmZJAe6c16S[";
 $dbname = "gastroapp";
 
 //Create Connection

@@ -14,7 +14,7 @@ if($conn->connect_error){
 }
 
 //Create Table
-$sql = "CREATE TABLE IF NOT EXISTS reservation (
+$sql = "CREATE TABLE IF NOT EXISTS Reservation (
     `ID` INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     `TableID` int NOT NULL,
     `Name` VARCHAR(255) NOT NULL,
